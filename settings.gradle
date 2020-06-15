@@ -1,0 +1,5 @@
+rootProject.name = 'dev-wannabe'
+include 'sudoku-game'
+include 'games'
+include 'healthcare'
+
